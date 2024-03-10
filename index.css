@@ -1,0 +1,10 @@
+li{ border: 1px solid green;
+    margin: 10px;
+    padding: 10px;
+    display: inline;font-family: 'Roboto',sans-serif;}
+h1{color: red;
+    margin: 30px;
+    padding: 30px;
+    display: inline;}
+.in:hover{border: 1px solid crimson; visibility: visible;color: blue;}
+#kkkk{word-spacing:5px;letter-spacing: 5px;color: blueviolet;}
